@@ -1,0 +1,23 @@
+{
+    "id": "50f429c4-605f-4ec6-e079-ec73a8c4a26c",
+    "author": "",
+    "widgets": [
+        {
+            "id": "sample-line-chart",
+            "name": "Sample Line Chart",
+            "description": "Sample Line Chart"
+        },
+        {
+            "id": "sample-donut-chart",
+            "name": "Sample Donut Chart",
+            "description": "Sample Donut Chart"
+        }
+    ],
+    "sidebarLinks": [],
+    "uis": [
+        {
+            "id": "mda-smart-bim-sample"
+        }
+    ],
+    "menuItems": []
+}

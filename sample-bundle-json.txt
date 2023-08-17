@@ -1,0 +1,38 @@
+{
+    "id": "d1863006-e8a0-495a-ccd6-72f8ec8bcaf9",
+    "author": "",
+    "widgets": [
+        {
+            "id": "MDASmartBIM",
+            "name": "MDASmartBIM",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+            "category":""
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "MDASmartBIMLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "MDASmartBIMLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "MDASmartBIMLink",
+            "title": "MDASmartBIM"
+        }
+    ]
+}
